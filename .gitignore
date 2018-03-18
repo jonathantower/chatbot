@@ -324,3 +324,5 @@ ASALocalRun/
 *.nvuser
 
 secrets.config
+
+*.user
